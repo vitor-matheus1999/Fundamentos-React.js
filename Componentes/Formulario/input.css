@@ -1,0 +1,14 @@
+.input input {
+
+    font-size: 1.1rem;
+}
+
+.input h2 {
+    font-size: 20px;
+}
+
+.exemplos {
+
+    display: flex;
+    flex-direction: column;
+}

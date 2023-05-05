@@ -1,0 +1,17 @@
+.tabelaProduto table{
+
+    width:100%;  
+}
+
+th{
+    background-color: rgb(57, 74, 202);
+    color:white;
+}
+
+.par{
+    background-color:#ddd ;
+}
+
+.impar{
+    background-color:#ccc;
+}

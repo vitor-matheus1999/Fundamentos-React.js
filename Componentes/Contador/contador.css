@@ -1,0 +1,28 @@
+.inputsEButtons input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.inputsEButtons button {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    color: black;
+    border-color: grey;
+    background-color: Gold;
+    margin: 15px;
+}
+
+.inputsEButtons button:hover {
+
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    font-size: 1.4rem;
+    color: black;
+    border-color: grey;
+    background-color: DarkOrange;
+    margin: 15px;
+}
