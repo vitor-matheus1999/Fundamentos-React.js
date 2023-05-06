@@ -1,6 +1,6 @@
 export default function Primeiro (){
 
-    const msg = ' Conteúdo de qualida duvidosa'
+    const msg = ' Exercícios realizados durante o curso sobre React'
 
     return (
 
@@ -8,7 +8,7 @@ export default function Primeiro (){
            
             <h2>Olá,Bem Vindo ao meu Site</h2> 
             <h3>{msg}</h3>
-            <p>Entre e vá a merda </p>  
+            <p>Entre e se divirta</p>  
 
         </div>
     )
